@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+__pycache__/
+__MACOSX/
+.DS_Store
+*.pyc
+.venv/
+venv/
+env/
+*.log
+.env
+
+# Dataset (provided separately)
+data/final.csv
